@@ -1,4 +1,4 @@
-Fiscal Year, District* , Description , Receipts , Approvals , Denials , Pending , Receipts , Approvals , Denials , Pending , Receipts , Completions , Pending 
+Fiscal Year,code, Description , Receipts , Approvals , Denials , Pending , Receipts , Approvals , Denials , Pending , Receipts , Completions , Pending 
 ,,,,,,,,,,,,,
 2013,ANC, ANCHORAGE AK , -   ,503,92,"1,326", -   ,20,3,69, -   ,618,"1,395"
 ,,,,,,,,,,,,,
@@ -77,27 +77,3 @@ Fiscal Year, District* , Description , Receipts , Approvals , Denials , Pending 
 ,CSC, CALIFORNIA SERVICE CENTER ,281, -   ,2,926,501, -   , -   ,"1,335",782,2,"2,261"
 ,,,,,,,,,,,,,
 Grand Total,,,"372,404","369,802","39,243","2,180,676","4,314","3,629",407,"16,578","376,718","413,081","2,197,254"
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-Please note: The report reflects the most up-to-date estimate available at the time the report is generated.,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-"* When a breakdown by district was not possible, service center or field office information was included instead. ",,,,,,,,,,,,,
-,,,,,,,,,,,,,
-Data: Based on March 2013 Final,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-Source: Performance Analysis System (PAS),,,,,,,,,,,,,
-,,,,,,,,,,,,,
-"Report Created: May 9, 2013, updated June 11, 2013",,,,,,,,,,,,,
-,,,,,,,,,,,,,
-Report Frequency: Monthly,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-"By: Office of Performance and Quality (OPQ), Data Analysis and Reporting Branch (DARB) - KS",,,,,,,,,,,,,
-,,,,,,,,,,,,,
-Parameters:,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-Date: Oct 2012 - Mar 2013 (updated FY2013 data),,,,,,,,,,,,,
-,,,,,,,,,,,,,
-Form Types:  N-400,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-"Data Type: Receipts, Approvals, Denials, and Pending",,,,,,,,,,,,,

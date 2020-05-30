@@ -1,4 +1,4 @@
-OFFICE,Fiscal Year,N-400 Natz Receipts,N-400 Natz Approvals,N-400 Natz Denials,N-400 Natz Pending,N-400 Mil Svc Receipts,N-400 Mil Svc Approvals,N-400 Mil Svc Denials,N-400 Mil Pending
+code,Fiscal Year,N-400 Natz Receipts,N-400 Natz Approvals,N-400 Natz Denials,N-400 Natz Pending,N-400 Mil Svc Receipts,N-400 Mil Svc Approvals,N-400 Mil Svc Denials,N-400 Mil Pending
 ,,,,,,,,,
 ABQ,2013,130,74,6,673,2,0,0,7
 ,,,,,,,,,
@@ -177,25 +177,3 @@ WIC,2013,100,0,10,613,0,0,0,4
 WPB,2013,1233,758,225,6594,2,5,0,7
 ,,,,,,,,,
 YAK,2013,109,73,10,329,2,0,0,2
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-Data: Based on October 2012 Final,,,,,,,,,
-,,,,,,,,,
-Source: Performance Analysis System (PAS),,,,,,,,,
-,,,,,,,,,
-"Report Created: December 11, 2012",,,,,,,,,
-,,,,,,,,,
-Report Frequency: Monthly,,,,,,,,,
-,,,,,,,,,
-"By: Office of Performance and Quality (OPQ), Data Analysis and Reporting Branch (DARB) - KS",,,,,,,,,
-,,,,,,,,,
-Parameters:,,,,,,,,,
-,,,,,,,,,
-"Date(s): October 2012, FY2013 data",,,,,,,,,
-,,,,,,,,,
-Form Type(s):  N-400,,,,,,,,,
-,,,,,,,,,
-"Data Type(s): Receipts, Approvals, Denials, and Pending",,,,,,,,,
-,,,,,,,,,
-USCIS Offices/Centers: Field Offices,,,,,,,,,

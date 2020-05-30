@@ -1,4 +1,4 @@
-Fiscal Year, Office , Description , Receipts , Approvals , Denials , Pending , Receipts , Approvals , Denials , Pending , Receipts , Completions , Pending 
+Fiscal Year,code, Description , Receipts , Approvals , Denials , Pending , Receipts , Approvals , Denials , Pending , Receipts , Completions , Pending 
 ,,,,,,,,,,,,,
 2010,ABQ,ALBUQUERQUE NM ,"1,657","1,560",75,604,23,21,1,2,"1,680","1,657",606
 ,,,,,,,,,,,,,
@@ -711,27 +711,3 @@ Fiscal Year, Office , Description , Receipts , Approvals , Denials , Pending , R
 2013 YTD Total,,,"123,924","128,849","11,728","387,306","1,505","1,296",133,"3,012","125,429","142,006","390,318"
 ,,,,,,,,,,,,,
 Grand Total,,,"2,456,313","2,173,943","189,329","387,306","34,830","28,714","2,460","3,012","2,491,143","2,394,446","390,318"
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-Please note: The report reflects the most up-to-date estimate available at the time the report is generated.,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-Data: Based on November 2012 Final,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-Source: Performance Analysis System (PAS),,,,,,,,,,,,,
-,,,,,,,,,,,,,
-"Report Created: January 2, 2012",,,,,,,,,,,,,
-,,,,,,,,,,,,,
-Report Frequency: Monthly,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-"By: Office of Performance and Quality (OPQ), Data Analysis and Reporting Branch (DARB) - KS",,,,,,,,,,,,,
-,,,,,,,,,,,,,
-Parameters:,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-Date(s): Oct 2009 - Nov 2012 (updated FY2013 data),,,,,,,,,,,,,
-,,,,,,,,,,,,,
-Form Type(s):  N-400,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-"Data Type(s): Receipts, Approvals, Denials, and Pending",,,,,,,,,,,,,
-,,,,,,,,,,,,,
-USCIS Offices/Centers: Field Offices,,,,,,,,,,,,,
