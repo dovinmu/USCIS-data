@@ -1,8 +1,10 @@
 # USCIS-data
 
-This repository collects together data on US citizen naturalizations by field office from the USCIS [Immigrant and Citizenship Data](https://www.uscis.gov/tools/reports-studies/immigration-forms-data) portal. Made using various tools from the Anaconda stack.
+This repository collects together data on US citizen naturalizations by field office from the USCIS [Immigrant and Citizenship Data](https://www.uscis.gov/tools/reports-studies/immigration-forms-data) portal. Note that there are only 2 fiscal quarters from 2020, making it look like there's a downward trend. 
 
 ![alt text](https://github.com/dovinmu/USCIS-data/blob/master/plots/all_US.png "US Naturalization")
+
+Made using various tools from the Anaconda stack.
 
 Files:
 USCIS scrape and concat.ipynb: scrapes quarterly reports on naturalizations by field office and puts them together. Puts the results into a CSV called first_pass.csv (not committed to the repo).
