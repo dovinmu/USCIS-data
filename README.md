@@ -6,9 +6,10 @@ This repository collects together data on US citizen naturalizations by field of
 
 Made using various tools from the Anaconda stack.
 
-Files:
-USCIS scrape and concat.ipynb: scrapes quarterly reports on naturalizations by field office and puts them together. Puts the results into a CSV called first_pass.csv (not committed to the repo).
+## Files
 
-concat_excel_quarters.ipynb: opens an xlsx file with the remaining quarters of data, which weren't available as CSV and so had to be pasted into an excel file. Saves everything to master_df.csv.
+**USCIS scrape and concat.ipynb**: scrapes quarterly reports on naturalizations by field office and puts them together. Puts the results into a CSV called first_pass.csv (not committed to the repo).
 
-sum.ipynb: sums the quarterly data into (fiscal) yearly data, putting the data into three CSVs (in order to exclude non-US and non-US state data) in the data folder.
+**concat_excel_quarters.ipynb**: opens an xlsx file with the remaining quarters of data, which weren't available as CSV and so had to be pasted into an excel file. Saves everything to master_df.csv.
+
+**sum.ipynb**: sums the quarterly data into (fiscal) yearly data, putting the data into three CSVs (in order to exclude non-US and non-US state data) in the data folder.
